@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>get Applicants by job_id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe974b1c-245e-43d6-9e7b-ea9f18045f47</testCaseGuid>
+</TestCaseEntity>
